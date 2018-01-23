@@ -1,0 +1,14 @@
+<scheme name="bosbach copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-12-14T14:11:16</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2.3.1.0</property>
+    <property name="modified">2017-12-14T14:12:29</property>
+    <property name="originalScheme">bosbach</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+</scheme>
